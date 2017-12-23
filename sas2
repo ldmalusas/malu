@@ -4,3 +4,8 @@ run;
 proc sort;
 by id;
 run;
+data meg;
+merge m1 m2;
+by id;
+run;
+
