@@ -1,0 +1,4 @@
+data mm;
+set m1;
+run;
+
