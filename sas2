@@ -1,2 +1,6 @@
 pro print;
 run;
+
+proc sort;
+by id;
+run;
